@@ -6,7 +6,7 @@ Hi, I'm Tche LIU.
 
 <table id="tbl" border=1 width="80%" rules=none frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=tchel&show_icons=true&hide=issues&theme=gruvbox&hide_title=false" ></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchel&layout=compact&theme=gruvbox&hide_title=false&hide=html" ></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchel&layout=compact&theme=gruvbox&hide_title=false&hide=html,javascript,css" ></td>
 </table>
 
 Visitor count from 2023-11-10 to the present:
