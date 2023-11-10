@@ -5,11 +5,12 @@ Hi, I'm Tche LIU.
 
 
 <table id="tbl" border=1 width="80%" rules=none frame=void>
-<td><img src="https://github-readme-stats.vercel.app/api?username=tchel&show_icons=true&hide=issues&theme=dark&hide_title=false" ></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchel&layout=compact&theme=dark&hide_title=false" ></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=tchel&show_icons=true&hide=issues&theme=gruvbox&hide_title=false" ></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchel&layout=compact&theme=gruvbox&hide_title=false" ></td>
 </table>
 
-Visitor count from 2023-11-10 to the present: 
+Visitor count from 2023-11-10 to the present:
+
 ![Visitor Count](https://profile-counter.glitch.me/tchel/count.svg)
 
 <!--
